@@ -1,3 +1,7 @@
-site_name: My Wiki
+site_name: XBSTRXCT
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: amber
+    accent: orange
